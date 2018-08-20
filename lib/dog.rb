@@ -6,5 +6,7 @@ end
 
 def name
   @name
+  
+  def bark
 end
 end
