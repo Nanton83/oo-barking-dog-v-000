@@ -6,9 +6,9 @@ end
 
 def name
   @name
-  
-  def bark
-    puts "woof!"
-  end
+end
+
+def bark
+  puts "woof!"
 end
 end
