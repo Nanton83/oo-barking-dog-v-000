@@ -4,5 +4,6 @@ def name=(dogs_name)
   @name = dogs_name
 end
 
-def 
+def name
+  @
 end
